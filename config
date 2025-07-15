@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[lfs]
+	repositoryformatversion = 0
+[remote "origin"]
+	url = https://github.com/JatinChugh05/cropguard.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

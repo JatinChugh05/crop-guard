@@ -1,0 +1,23 @@
+{
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 472,
+    "files": [
+      "static/chunks/472.a3826d29d6854395.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 9341,
+    "files": [
+      "static/chunks/341.056900400c7cb71c.js"
+    ]
+  },
+  "components\\dashboard-container.tsx -> @/components/dashboard-client": {
+    "id": 5306,
+    "files": [
+      "static/chunks/63-167e1efb56b84c13.js",
+      "static/chunks/175-25a693bd1a23263a.js",
+      "static/chunks/681.c60d5e60642b57d3.js",
+      "static/chunks/306.067990c3bb239f91.js"
+    ]
+  }
+}
